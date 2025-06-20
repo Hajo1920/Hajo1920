@@ -31,7 +31,7 @@ and the goals I believe I truly deserve to achieve.
 
 ## 📱 Connect with Me  
 
-![Static Badge](https://img.shields.io/badge/Facebook-blue-(https://fb.com))
+![Static Badge](https://img.shields.io/badge/Facebook-blue)
 
 
 
