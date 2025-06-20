@@ -29,6 +29,9 @@ and the goals I believe I truly deserve to achieve.
 ***Frameworks:***  Next.js, EF,  
 ***Libraries:*** React.js, TailwindCSS,  
 
-[![Apple](https://img.shields.io/badge/Email-000000?style=flat&logo=email&logoColor=white)](https://gmail.com/ahmedhaj000@gmail.com)
+## 📱 Connect with Me  
+
+![Static Badge](https://img.shields.io/badge/Facebook-blue-(https://fb.com))
+
 
 
