@@ -29,6 +29,6 @@ and the goals I believe I truly deserve to achieve.
 ***Frameworks:***  Next.js, EF,  
 ***Libraries:*** React.js, TailwindCSS,  
 
-
+[![Apple](https://img.shields.io/badge/Gmail-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com)
 
 
