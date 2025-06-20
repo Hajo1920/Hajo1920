@@ -22,11 +22,11 @@ and the goals I believe I truly deserve to achieve.
 
 ## 🛠 Most Familiar Tech Stack
 
-**Languages:**  C#, JavaScript, C++, .NET,
-**Database:** Microsoft SQL Server, T-SQL,
-**Desktop Development:** Windows & Mac (C#, .NET, C++),
-**Frameworks:**  Next.js, EF,
-**Libraries:** React.js, TailwindCSS,
+***Languages:***  C#, JavaScript, C++, .NET,  
+***Database:*** Microsoft SQL Server, T-SQL,  
+***Desktop Development:*** Windows & Mac (C#, .NET, C++),  
+***Frameworks:***  Next.js, EF,  
+***Libraries:*** React.js, TailwindCSS,  
 
 
 
